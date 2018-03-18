@@ -1,5 +1,0 @@
-alteracao desenv
-
-nova alteracao
-
-Retificacao em Homolog para merge com a master
