@@ -2,4 +2,4 @@ alteracao desenv
 
 nova alteracao
 
-Alteracao em Homolog para merge com a master
+Retificacao em Homolog para merge com a master
