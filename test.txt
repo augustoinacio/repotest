@@ -8,4 +8,4 @@ Landel inclui mais uma linha
 
 Desenvolvimento local augusto
 
-Incluir linha conflito landel
+Retirados os conflitos
