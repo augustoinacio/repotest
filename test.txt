@@ -3,3 +3,7 @@ alteracao desenv
 nova alteracao
 
 Retificacao em Homolog para merge com a master
+
+Landel inclui mais uma linha
+
+Desenvolvimento local augusto
